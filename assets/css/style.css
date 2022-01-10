@@ -579,7 +579,7 @@ a.video-play-btn {
 .shop-banner {
     position: relative; 
   background-color: #f5f5f5;
-  background-image: url("/assets/img/sunf_header.jpg");
+  background-image: url("../img/sunf_header.jpg");
   background-size: cover;
   padding: 110px 0px 115px;
 }
@@ -807,7 +807,7 @@ body{
   margin-left: 60px;
 }
 .about .col-lg-4 {
-   background-image: url("/assets/img/1780e97ba089647048c70f0af86369fbdf0e1e514736d6746f04a03a7bb11982-rimg-w400-h400-gmir.jpg");
+   background-image: url("../img/1780e97ba089647048c70f0af86369fbdf0e1e514736d6746f04a03a7bb11982-rimg-w400-h400-gmir.jpg");
   background-size: cover;
   min-height: 400px;
 }
@@ -856,7 +856,7 @@ input{
 }
 
 .buy{
-  background-image: url("/assets/img/sunf_header.jpg");
+  background-image: url("../img/sunf_header.jpg");
 }
 .buy .buy-item {
   border-radius: 5px;
@@ -931,7 +931,7 @@ input{
   padding: 1rem 0;
 }
 .cources{
-background-image: url("/assets/img/26VOGEL1-articleLarge-v2.jpg");
+background-image: url("../img/26VOGEL1-articleLarge-v2.jpg");
  display: flex;
  flex-direction: column;
  justify-content: center;
@@ -982,7 +982,7 @@ object-fit: cover;
  text-align: center;
 }
 .courses{
-  background-image: url("/assets/img/bg.jpg");
+  background-image: url("../img/bg.jpg");
   
 }
 .courses .course-item {
